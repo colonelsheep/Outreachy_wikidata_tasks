@@ -1,0 +1,292 @@
+
+TASK ONE:
+
+These articles are about ''tonic immobility'': the act of animals (and humans!) playing dead. I chose a set of articles that were varied in publishing date, location, and subject matter.
+
+=== Articles ===
+Generally:
+* Authors are separated by property type (either {{P|P2093}} or {{P|P50}} in the articles I chose.)
+* Authors have the qualifier {{P|1545}}, which is based on author order in the reference.
+* Authors have at least 1 reference which links to the scientific article.
+
+==== {{Q|Q45962899}} ====
+# The first author is 'Mateus Dalbem Ferreira', and is defined as an {{P|P2093}}.
+# The second author is 'Leda Menescal-de-Oliveira', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q39570994}} ====
+# The first author is 'Fernando Falkenburger Melleu', and is defined as an {{P|P2093}}.
+# The second author is {{Q|Q58914670}}, and is defined as an {{P|P50}}.
+#* {{Q|Q58914670}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#** {{P|P108}} = {{Q|Q1851075}}. This is listed twice on his page with two different start-dates obtained through different references.
+#** {{P|P69}} = {{Q|Q5397345}}.
+#* {{Q|Q58914670}} has the following identifiers:
+#** {{P|P496}} = [https://orcid.org/0000-0002-0627-530X 0000-0002-0627-530X]
+#** {{P|1153}} = [https://www.scopus.com/authid/detail.uri?authorId=6508000938 6508000938]
+# The third author is 'J Marino-Neto', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q38667946}} ====
+# The first author is 'Luiza Figueiredo Passos', and is defined as an {{P|P2093}}.
+# The second author is 'Gerardo Garcia', and is defined as an {{P|P2093}}.
+# The third author is {{Q|Q46562870}}, and is defined as an {{P|P50}}.
+#* {{Q|Q46562870}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P21}} = {{Q|Q6581097}}.
+#** {{P|P735}} = {{Q|Q4927937}}.
+#** {{P|P734}} = {{Q|Q12678727}}.
+#** {{P|P569}} = 1966.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#** {{P|P108}} = {{Q|Q2738622}} & {{Q|Q30253792}}.
+#** {{P|P69}} = {{Q|Q160302}}.
+#* {{Q|Q46562870}} has the following identifiers:
+#** {{P|P214}} = [https://viaf.org/viaf/100327106/ 100327106]
+#** {{P|P213}} = [https://isni.org/isni/0000000110007503 0000000110007503]
+#** {{P|P244}} = [http://id.loc.gov/authorities/names/n2002155746 n2002155746]
+#** {{P|P1207}} = [http://katalog.nukat.edu.pl/lib/authority?lccn=n%202007101603 n202007101603]
+#** {{P|P5587}} = [https://libris.kb.se/jgvx16g23shfkpp jgvx16g23shfkpp]
+#** {{P|P906}} = [https://libris.kb.se/auth/246962 246962]
+#** {{P|P269}} = [https://www.idref.fr/108565319 108565319]
+#** {{P|P7859}} = [https://www.worldcat.org/identities/lccn-n2002155746/ lccn-n2002155746]
+#** {{P|P1960}} = [https://scholar.google.com/citations?user=2e97498AAAAJ 2e97498AAAAJ]
+#** {{P|P496}} = [https://orcid.org/0000-0002-8407-2348 0000-0002-8407-2348]
+#** {{P|P3829}} = [https://publons.com/researcher/2670030/ 2670030]
+#** {{P|1053}} = [https://www.researcherid.com/rid/B-7356-2013 B-7356-2013]
+#** {{P|P1153}} = [https://www.scopus.com/authid/detail.uri?authorId=8305475300 8305475300]
+
+==== {{Q|Q40407003}} ====
+# The first author is 'Jennifer M Heidt', and is defined as an {{P|P2093}}.
+# The second author is 'Brian P Marx', and is defined as an {{P|P2093}}.
+# The third author is 'John P Forsyth', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q73194982}} ====
+# The first author is 'C R Monassi', and is defined as an {{P|P2093}}.
+# The second author is {{Q|Q43256024}}, and is defined as an {{P|P50}}.
+#* {{Q|Q43256024}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P735}} = {{Q|Q26776122}}.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#** {{P|P108}} = {{Q|Q5428833}} & {{Q|Q10279561}}.
+#* {{Q|Q43256024}} has the following identifiers:
+#** {{P|P496}} = [http://orcid.org/0000-0003-1762-2730 0000-0003-1762-2730]
+#** {{P|P3829}} = [https://publons.com/researcher/1311008/ 1311008]
+#** {{P|1053}} = [https://www.researcherid.com/rid/A-2011-2013 A-2011-2013]
+# The third author is 'L Menescal-de-Oliveira', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q37640097}} ====
+# The first author is 'Nora Mooren', and is defined as an {{P|P2093}}.
+# The second author is 'Agnes van Minnen', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q33632880}} ====
+# The first author is 'Satoshi Nakayama' and is defined as an {{P|P2093}}.
+# The second author is 'Takahisa Miyatake', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q95643353}} ====
+# The first author is {{Q|Q91260642}}, and is defined as an {{P|P50}}.
+#* {{Q|Q91260642}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#* {{Q|Q91260642}} has the following identifiers:
+#** {{P|P496}} = [https://orcid.org/0000-0003-2326-7851 0000-0003-2326-7851]
+# The second author is 'Ruth A Lanius' and is defined as an {{P|P2093}}.
+# The third author is 'Matthew F Brown' and is defined as an {{P|P2093}}.
+# The fourth author is 'Richard J Neufeld' and is defined as an {{P|P2093}}.
+# The fifth author is 'Paul A Frewen' and is defined as an {{P|P2093}}.
+# The sixth author is 'Margaret C McKinnon' and is defined as an {{P|P2093}}.
+
+==== {{Q|Q76507957}} ====
+# The first author is 'MOORE AU', and is defined as an {{P|P2093}}.
+# The second author is 'AMSTEY MS', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q67382053}} ====
+# The first author is 'J D Maser', and is defined as an {{P|P2093}}.
+# The second author is 'G G Gallup', and is defined as an {{P|P2093}}.
+# The third author is 'W R Thorn', and is defined as an {{P|P2093}}.
+# The fourth author is 'P H Edson', and is defined as an {{P|P2093}}.
+
+==== {{Q|Q67062045}} ====
+# The first author is ' A N Naggar', and is defined as an {{P|P2093}}.
+# The second author is {{Q|Q49173050}}, and is defined as an {{P|P50}}.
+#*  {{Q|Q49173050}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P21}} = {{Q|Q6581097}}.
+#** {{P|P27}} = {{Q|Q30}}.
+#** {{P|P735}} = {{Q|Q808995}}.
+#** {{P|P734}} = {{Q|Q108940646}}.
+#** {{P|P569}} = 20th century, 1941.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#** {{P|P101}} = {{Q|Q9418}}.
+#** {{P|P108}} = {{Q|Q7382780}} & {{Q|Q390551}}.
+#** {{P|P39}} = {{Q|Q25339110}}.
+#* {{Q|Q49173050}} has the following identifiers:
+#** {{P|P214}} = [https://viaf.org/viaf/93740383/ 93740383]
+#** {{P|P213}} = [https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200001%200998%209319  0000 0001 0998 9319]
+#** {{P|P1015}} = [https://authority.bibsys.no/authority/rest/authorities/html/7048640 7048640]
+#** {{P|P9984}} = [https://cantic.bnc.cat/registre/981058523361306706 981058523361306706]
+#** {{P|P8179}} = [https://viaf.org/processed/CAOONL|ncf11293836 ncf11293836]
+#** {{P|P227}} = [https://d-nb.info/gnd/1021737860 1021737860]
+#** {{P|P8189}} = [http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007438165805171 987007438165805171]
+#** {{P|P5034}} = [https://librarian.nl.go.kr/LI/contents/L20101000000.do?id=KAC200903235 KAC200903235]
+#** {{P|P244}} = [http://n85268759 https://id.loc.gov/authorities/n85268759]
+#** {{P|P271}} = [https://ci.nii.ac.jp/author/DA00952231 DA00952231]
+#** {{P|P691}} = [https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ntk20201069731 ntk20201069731]
+#** {{P|P1006}} = [https://data.bibliotheken.nl/doc/thes/p072673672 072673672]
+#** {{P|P1207}} = [https://wikidata-externalid-url.toolforge.org/?p=1207&url_prefix=http://nukat.edu.pl/aut/&id=n2008141340 n2008141340]
+#** {{P|P3065}} = [http://data.rero.ch/02-A024322185 02-A024322185]
+#** {{P|P7859}} = [https://www.worldcat.org/identities/lccn-n85268759/ lccn-n85268759]
+#** {{P|P2381}} = [https://academictree.org/math/peopleinfo.php?pid=6084 6084]
+#** {{P|P2671}} = [https://www.google.com/search?kgmid=/g/113r5rmwt /g/113r5rmwt]
+#** {{P|P496}} = [https://orcid.org/0000-0002-3164-9174 0000-0002-3164-9174]
+#** {{P|P1153}} = [https://www.scopus.com/authid/detail.uri?authorId=7005878537 7005878537]
+
+==== {{Q|Q43192398}} ====
+# The first author is 'Yusuke Nishi', and is defined as an {{P|P2093}}.
+# The second author is {{Q|Q57754573}}, and is defined as an {{P|P50}}.
+#* {{Q|Q57754573}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P735}} = {{Q|Q2645657}}.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#* {{Q|Q57754573}} has the following identifiers:
+#** {{P|P496}} = [https://orcid.org/0000-0003-3515-2170 0000-0003-3515-2170]
+#** {{P|1153}} = [https://www.scopus.com/authid/detail.uri?authorId=7404488139 7404488139]
+# The third author is {{Q|Q52697316}}, and is defined as an {{P|P50}}.
+#* {{Q|Q52697316}} has the following statements:
+#** {{P|P31}} = {{Q|Q5}}.
+#** {{P|P735}} = {{Q|Q7677074}}.
+#** {{P|P734}} = {{Q|Q6884421}}.
+#** {{P|P106}} = {{Q|Q1650915}}.
+#* {{Q|Q52697316}} has the following identifiers:
+#** {{P|P496}} = [https://orcid.org/0000-0002-5476-0676 0000-0002-5476-0676]
+#** {{P|1053}} = [https://www.researcherid.com/rid/B-6580-2017 B-6580-2017]
+
+=== Edits ===
+* Funnily enough, the same author (Takahisa Miyatake) appeared in two of my articles - once as an {{P|P2093}} and once as an {{P|P50}}! Noticing this, I changed his property into {{P|P50}} in the article where he appeared as an {{P|P2093}}. See article {{Q|Q33632880}} for proof of my edit. I had to make sure I adequately referenced where the author was found, as well as make sure his series ordinal number (2) was correct. 
+
+* Added given name and family name to {{Q|Q91260642}}. I'm curious about how strict we are with sex/gender additions to researcher pages - do we need strict confirmation of their gender by the researcher themselves or are we able to assume based off of pronouns/gendered titles/presentation? I tend to err on the side of caution here, so I did not add Chantelle's gender to her page.
+
+* Added Ramos and Andrande as family names to {{Q|Q43256024}}. I am Latin American, and am aware that Latinos have two or more surnames - so I was able to recognise this in Dr. Leite-Panissi's name. However, I did not know how to deal with her double-barrelled surname: I looked up the name {{Q|Q56537638}}, saw how his family name's page was structured, and made such a page for Leite-Panissi and added it to her page. This ended up being much more work than I thought, as Panissi wasn't a page that existed either! It looked to be a really rare family name, and one that existed predominantly amongst Brazilian people. I suspected that this could be a case of a name that was spelled incorrectly upon immigration to Brazil, as this is relatively common in Mexico and common for many surnames in the Americas. investigated this (using Google translate and my shoddy ability to read some Portuguese) and found [https://guaranesiamemorias.wordpress.com/familia-panissa/ this] page, which included a comment from someone who, in their own family tree, has a variety of spellings of the originally Italian name Penizzi... including Panissi! It seemed verified to me that Panissi was a genuinely Brazilian surname created through immigration. I tried to find a category for family names created through notary error and could not find it. Maybe it's worth considering adding this? So many family names are like this! So I made a page for Panissi, too. You can see both pages here: {{Q|Q111386206}} and {{Q|Q111386493}}. <br /> <br /> I've noticed the way a lot of Latin American names are treated in Wikidata is pretty inconsistent: I found the property {{P|P1950}}, which I thought would be useful when trying to correctly apply down Dr. Lino-de-Oliveira and Dr.Leite-Passini's family names, but because he is Brazilian (a non-Spanish speaking culture where multiple surnames also exist) I was unsure if this property could be applied to them. Should I be accepted to work with Wikimedia on this project, I'd really like to get Latin American names right! 
+
+* On the {{Q|Q56537638}} page, I noticed the hyphen description referred to hyphen as a character ({{Q|Q1878464}}) not hyphen as part of a name ({{Q|Q76425243}}). I corrected this.
+
+* Added family name to {{Q|Q57754573}}.
+
+* I noticed that the family name {{Q|Q6884421}} was flagged as having a value-requires-statement constraint for a writing system and native label statement. I added these. I got the native label writing from the [https://en.wikipedia.org/wiki/Miyatake Wikipedia] page for the family name, and confirmed this with a friend of mine who is fluent in Japanese. I based my structure for my additions to the {{Q|Q6884421}} page off of the {{Q|Q1533615}} page. <br /><br /> I was curious about how Wikidata works with Japanese surnames that are written with multiple variations of Kanji, such as {{Q|Q18645909}}. I learnt that different pages are made for the name with different Kanji, seen here: {{Q|Q24091156}}, {{Q|Q27166954}}, {{Q|Q27156022}}. I'm wondering if this is the best way to deal with these sorts of names... I'm really not sure!
+
+=== Bonus === 
+While working on the rest of Part 1, I became pretty familiar with Wikidata's properties, values, and qualifiers. 
+All statements are made up of a property/value pair. Properties designate specific categories, and values provide how said category is manifested.
+
+'''Properties:''' are categories that values can correspond to. Seem to be extremely vast: from the broad {{P|P31}} category which seems to place pages into as large of a group as possible (with {{Q|Q5}} being the most common value for this property for the pages I looked at) to very specific categories, such as {{P|P8313}}. They also store specific ''types'' of values: {{P|P50}} stores {{Q|Q5}} pages, while {{P|2093}}, which is set for unspecified authors, stores strings.
+
+'''Values:''' are items on Wikidata that correspond to a specific instance of a property. Values can be subclasses of other values, such as {{Q|Q5}} being a subclass of {{Q|Q154954}}. Qualifiers can be added to values to further describe the aforementioned property. They provide additional information that enhances a description (as opposed to values, which provide an initial description.) Qualifiers are also made up of a Property/Value pair.
+
+For example: {{Q|Q46562870}} has the property {{P|P108}} with value {{Q|Q2738622}}, which has qualifier {{P|P580}} with value 1 January 2013. The property 'start time' would make no sense by itself - start time of what? As a qualifier, we know what property/value pair it depends on.
+ 
+Phew! Thinking about names involves so much more than I initially thought! I actually found it SUPER INTERESTING, and am looking forward to continuing onto Part 2 should this be accepted.
+Hello!
+Hello!
+Sleeping for 8.3 seconds, 2022-04-04 17:14:47
+Page [[wikidata:User:PangolinMexico/Outreachy 1]] saved
+
+TASK TWO:
+Wikidata Sandbox
+said to be the same as (P460) Q13406268: Wikidata sandbox 2
+instance of (P31) Q192611: electoral district
+WARNING: wikibase-lexeme datatype is not supported yet.
+country (P17) Q188: German
+dissolved, abolished or demolished date (P576) : {
+    "after": 0,
+    "before": 0,
+    "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+    "precision": 11,
+    "time": "+00000001989-11-01T00:00:00Z",
+    "timezone": 0
+}
+electoral district number (P4565) : 1666
+capital (P36) Q9845: Heusden
+contains administrative territorial entity (P150) Q9845: Heusden
+height (P2048) : {
+    "amount": "+2",
+    "lowerBound": null,
+    "unit": "http://www.wikidata.org/entity/Q11573",
+    "upperBound": null
+}
+located in the administrative territorial entity (P131) Q4546: Template:Municipalities Liechtenstein
+
+TASK THREE:
+
+Role of dorsal raphe nucleus 5-HT(1A) and 5-HT(2) receptors in tonic immobility modulation in guinea pigs.
+1) Author Name String: Mateus Dalbem Ferreira
+2) Author Name String: Leda Menescal-de-Oliveira
+
+The mesencephalic GCt-ICo complex and tonic immobility in pigeons (Columba livia): a c-Fos study.
+2) Author Q58914670: Cilene Lino-de-Oliveira
+No given name in this page!
+No family name in this page!
+1) Author Name String: Fernando Falkenburger Melleu
+3) Author Name String: J Marino-Neto
+
+The tonic immobility test: Do wild and captive golden mantella frogs (Mantella aurantiaca) have the same response?
+3) Author Q46562870: Robert J. Young
+Given name Q4927937: Robert
+Family name Q12678727: Young
+1) Author Name String: Luiza Figueiredo Passos
+2) Author Name String: Gerardo Garcia
+
+Tonic immobility and childhood sexual abuse: a preliminary report evaluating the sequela of rape-induced paralysis.
+1) Author Name String: Jennifer M Heidt
+2) Author Name String: Brian P Marx
+3) Author Name String: John P Forsyth
+
+Ventrolateral periaqueductal gray matter and the control of tonic immobility
+2) Author Q43256024: Christie Ramos Andrade Leite-Panissi
+Given name Q26776122: Christie
+Family name Q1643088: Ramos
+Family name Q15181057: Andrade
+Family name Q111386206: Leite-Panissi
+1) Author Name String: C R Monassi
+3) Author Name String: L Menescal-de-Oliveira
+
+Feeling psychologically restrained: the effect of social exclusion on tonic immobility.
+1) Author Name String: Nora Mooren
+2) Author Name String: Agnes van Minnen
+
+Genetic trade-off between abilities to avoid attack and to mate: a cost of tonic immobility
+2) Author Q52697316: Takahisa Miyatake
+Given name Q7677074: Takahisa
+Family name Q6884421: Miyatake
+1) Author Name String: Satoshi Nakayama
+
+Assessing Post-Traumatic Tonic Immobility Responses: The Scale for Tonic Immobility Occurring Post-Trauma
+1) Author Q91260642: Chantelle Lloyd
+Given name Q61830310: Chantelle
+Family name Q1287630: Lloyd
+2) Author Name String: Ruth A Lanius
+3) Author Name String: Matthew F Brown
+4) Author Name String: Richard J Neufeld
+5) Author Name String: Paul A Frewen
+6) Author Name String: Margaret C McKinnon
+
+TONIC IMMOBILITY. II. EFFECTS OF MOTHER-NEONATE SEPARATION
+1) Author Name String: MOORE AU
+2) Author Name String: AMSTEY MS
+
+Relative potency of tetrahydrocannabinol derivatives on tonic immobility in chickens
+1) Author Name String: J D Maser
+2) Author Name String: G G Gallup
+3) Author Name String: W R Thorn
+4) Author Name String: P H Edson
+
+Facilitation of tonic immobility by stimulation of the vaginal cervix in the rat
+2) Author Q49173050: Barry Komisaruk
+Given name Q808995: Barry
+Family name Q108940646: Komisaruk
+1) Author Name String: A N Naggar
+
+Biogenic amines, caffeine and tonic immobility in Tribolium castaneum.
+2) Author Q57754573: Ken Sasaki
+Given name Q2645657: Ken
+Family name Q346569: Sasaki
+3) Author Q52697316: Takahisa Miyatake
+Given name Q7677074: Takahisa
+Family name Q6884421: Miyatake

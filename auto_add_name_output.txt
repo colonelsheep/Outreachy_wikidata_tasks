@@ -1,0 +1,334 @@
+[roberto@pangolin core]$ python pwb.py auto_add_name.py
+How many articles to search through? 20
+
+Searching for authors in: Use of High-Dose Oral Valacyclovir During an Intravenous Acyclovir Shortage: A Retrospective Analysis of Tolerability and Drug Shortage Management
+
+Going to author page Q88835787: Milena M McLaughlin
+This person already has a given name Q1759001: Milena
+This person already has a family name Q1387359: McLaughlin
+
+Searching for authors in: Spontaneous Absorption of Cerebral Air Embolus Developed Accidentally during an Intra-arterial Procedure
+
+Going to author page Q91262535: Tae Ki Yang
+No given name in this page! Let's add it.
+Tae: Korean male given name (태)
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 16256733}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q91262535
+No family name in this page! Let's add it.
+Yang: Korean family name (양)
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 17041598}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+Sleeping for 3.3 seconds, 2022-04-04 16:58:32
+WARNING: API warning (wbsetclaim) of unknown format: {'messages': [{'name': 'wikibase-conflict-patched', 'parameters': [], 'html': {'*': 'Your edit was patched into the latest version.'}, 'type': 'warning'}]}
+View edit at page: Q91262535
+
+Searching for authors in: Potential risk of alpha-glucosidase inhibitor administration in prostate cancer external radiotherapy by exceptional rectal gas production: a case report
+
+Going to author page Q61135764: Hideya Yamazaki
+This person already has a given name Q55639882: Hideya
+No family name in this page! Let's add it.
+Yamazaki: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 23301513}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+Sleeping for 5.3 seconds, 2022-04-04 16:58:40
+View edit at page: Q61135764
+
+Searching for authors in: Diagnosis in subdural myeloid sarcoma
+
+Going to author page Q37382696: Andrew C Perkins
+This person already has a given name Q18042461: Andrew
+This person already has a family name Q2071244: Perkins
+
+Searching for authors in: Severe toxicity induced by accumulation of active sunitinib metabolite in a Japanese patient with renal cell carcinoma: a case report
+
+Going to author page Q96202231: Shinya Takasaki
+This person already has a given name Q2279195: Shinya
+This person already has a family name Q26216269: Takasaki
+
+Going to author page Q77666693: Akihiro Ito
+This person already has a given name Q4700926: Akihiro
+No family name in this page! Let's add it.
+Itō: Japanese family name (伊藤)
+Is this the correct name? n
+
+Going to author page Q54938178: Hiroaki Yamaguchi
+This person already has a given name Q16276787: Hiroaki
+This person already has a family name Q17041572: Yamaguchi
+
+Searching for authors in: IgG4-related membranous glomerulonephritis and generalized lymphadenopathy without pancreatitis: a case report
+
+Going to author page Q96117019: Justine Huart
+This person already has a given name Q18088111: Justine
+This person already has a family name Q47001945: Huart
+
+Searching for authors in: Clostridium difficile bacteremia: Report of two cases in French hospitals and comprehensive review of the literature
+
+Going to author page Q41452030: Catherine Eckert
+This person already has a given name Q2218095: Catherine
+This person already has a family name Q15807233: Eckert
+
+Searching for authors in: Effect of Bone Regeneration with Mineralized Plasmatic Matrix for Implant Placement in Aesthetic Zone
+
+Going to author page Q63346825: Khadija Amine
+No given name in this page! Let's add it.
+Khadija: female given name (خديجة‎)
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 6006377}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q63346825
+No family name in this page! Let's add it.
+Amine: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 37517499}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+Sleeping for 6.5 seconds, 2022-04-04 16:59:07
+WARNING: API warning (wbsetclaim) of unknown format: {'messages': [{'name': 'wikibase-conflict-patched', 'parameters': [], 'html': {'*': 'Your edit was patched into the latest version.'}, 'type': 'warning'}]}
+View edit at page: Q63346825
+
+Searching for authors in: Renal Leiomyoma: A Case Report and Review of the Literature
+
+Going to author page Q47460877: Noppadol Larbcharoensub
+No given name in this page! Let's add it.
+Name not found!
+No family name in this page! Let's add it.
+Name not found!
+
+Searching for authors in: Cerebral Stroke in a Teenage Girl with Paroxysmal Nocturnal Hemoglobinuria
+
+Going to author page Q57569630: Francesco Gervasi
+This person already has a given name Q2268455: Francesco
+No family name in this page! Let's add it.
+Gervasi: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 37513974}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q57569630
+
+Going to author page Q57072372: Piero Farruggia
+This person already has a given name Q3903143: Piero
+This person already has a family name Q37329373: Farruggia
+
+Searching for authors in: Emergence of new-onset psychotic disorder following recovery from LGI1 antibody-associated limbic encephalitis
+
+Going to author page Q86906967: Thomas Arthur Nicholls Pollak
+This person already has a given name Q16428906: Thomas
+No family name in this page! Let's add it.
+Pollak: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 634520}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q86906967
+
+Searching for authors in: Triatoma vitticeps subcomplex (Hemiptera, Reduviidae, Triatominae): a new grouping of Chagas disease vectors from South America
+
+Going to author page Q22103620: João Aristeu da Rosa
+This person already has a given name Q16916120: João
+This person already has a family name Q43070145: da Rosa
+
+Going to author page Q87134918: Maria Tercília Vilela de Azeredo-Oliveira
+This person already has a given name Q325872: Maria
+No family name in this page! Let's add it.
+Name not found!
+
+Going to author page Q21391092: Kaio Cesar Chaboli Alevi
+No given name in this page! Let's add it.
+Name not found!
+No family name in this page! Let's add it.
+Alevi: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 106598235}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q21391092
+
+Searching for authors in: Beyond citation analysis: a model for assessment of research impact
+
+Going to author page Q42549124: Cathy C. Sarli
+This person already has a given name Q2942178: Cathy
+This person already has a family name Q37507064: Sarli
+
+Going to author page Q42549119: Kristi L. Holmes
+This person already has a given name Q6437836: Kristi
+This person already has a family name Q1762298: Holmes
+
+Going to author page Q57258240: Ellen K Dubinsky
+This person already has a given name Q2235472: Ellen
+No family name in this page! Let's add it.
+Dubinsky: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 37297960}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q57258240
+
+Going to author page Q57910897: Ellen K Dubinsky
+This person already has a given name Q2235472: Ellen
+This person already has a family name Q37297960: Dubinsky
+
+Searching for authors in: Progressive dyspnea due to pulmonary carcinoid tumorlets
+
+Going to author page Q81285429: Kosmidis Ch
+No given name in this page! Let's add it.
+Name not found!
+No family name in this page! Let's add it.
+Name not found!
+
+Going to author page Q47140494: Georgia Trakada
+This person already has a given name Q378694: Georgia
+No family name in this page! Let's add it.
+Name not found!
+
+Searching for authors in: Acquired Thrombotic Thrombocytopenic Purpura in a Patient with Pernicious Anemia
+
+Going to author page Q61037551: Ramesh Kumar Pandey
+No given name in this page! Let's add it.
+Ramesh: male given name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 7289371}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q61037551
+No family name in this page! Let's add it.
+Pandey: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 344924}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+WARNING: API warning (wbsetclaim) of unknown format: {'messages': [{'name': 'wikibase-conflict-patched', 'parameters': [], 'html': {'*': 'Your edit was patched into the latest version.'}, 'type': 'warning'}]}
+View edit at page: Q61037551
+
+Going to author page Q60506286: Sumit Dahal
+No given name in this page! Let's add it.
+Sumit: Indian given name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 60785514}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q60506286
+This person already has a family name Q16870431: Dahal
+
+Going to author page Q96169757: Kamal Fadlalla El Jack Fadlalla
+No given name in this page! Let's add it.
+Kamal: male given name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 1305584}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+Sleeping for 5.9 seconds, 2022-04-04 17:00:31
+View edit at page: Q96169757
+No family name in this page! Let's add it.
+Name not found!
+
+Going to author page Q88526760: Bikash Bhattarai
+No given name in this page! Let's add it.
+Bikash: given name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P735', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 30669980}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q88526760
+No family name in this page! Let's add it.
+Bhattarai: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 854889}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+Sleeping for 5.7 seconds, 2022-04-04 17:01:27
+WARNING: API warning (wbsetclaim) of unknown format: {'messages': [{'name': 'wikibase-conflict-patched', 'parameters': [], 'html': {'*': 'Your edit was patched into the latest version.'}, 'type': 'warning'}]}
+View edit at page: Q88526760
+
+Searching for authors in: Atypical hemolytic uremic syndrome triggered by varicella infection
+
+Going to author page Q28595173: Jacques Izopet
+This person already has a given name Q941049: Jacques
+No family name in this page! Let's add it.
+Name not found!
+
+Searching for authors in: Intrathoracic caudate lobe of the liver: a case report and literature review
+
+Going to author page Q87070914: Ying-Yi Chen
+No given name in this page! Let's add it.
+Name not found!
+No family name in this page! Let's add it.
+Jeon: Korean family name (전)
+Is this the correct name? n
+
+Searching for authors in: Arthritis and diagnosis of leprosy: a case report and review of the literature
+
+Going to author page Q86015005: Tania Rita Moreno de Oliveira Fernandes
+This person already has a given name Q16612206: Tania
+No family name in this page! Let's add it.
+Fernandes: family name
+Is this the correct name? y
+Claim.fromJSON(DataSite("wikidata", "wikidata"), {'mainsnak': {'snaktype': 'value', 'property': 'P734', 'datatype': 'wikibase-item', 'datavalue': {'value': {'entity-type': 'item', 'numeric-id': 21510337}, 'type': 'wikibase-entityid'}}, 'type': 'statement', 'rank': 'normal'})
+Add to page? y
+View edit at page: Q86015005
+
+Searching for authors in: Combined IgG4κ and IgG1λ deposition in the glomerular and tubular basement membrane accompanied by autoimmune neutropenia (AIN) and immune thrombocytopenia (ITP)
+
+Going to author page Q40424555: Hidekazu Sugiura
+This person already has a given name Q16276716: Hidekazu
+This person already has a family name Q21475324: Sugiura
+
+Searching for authors in: Giant Perineal Solitary Fibrous Tumor: A Rare Case Report
+
+Going to author page Q57562957: Petronio Augusto de Souza Melo
+This person already has a given name Q104376972: Petronio
+This person already has a family name Q10328432: Melo
+
+SUSPICIOUS NAMES:
+Milena M McLaughlin (Q88835787): M
+Tae Ki Yang (Q91262535): Ki
+Andrew C Perkins (Q37382696): C
+Thomas Arthur Nicholls Pollak (Q86906967): Arthur
+Thomas Arthur Nicholls Pollak (Q86906967): Nicholls
+João Aristeu da Rosa (Q22103620): Aristeu
+João Aristeu da Rosa (Q22103620): da
+Maria Tercília Vilela de Azeredo-Oliveira (Q87134918): Tercília
+Maria Tercília Vilela de Azeredo-Oliveira (Q87134918): Vilela
+Maria Tercília Vilela de Azeredo-Oliveira (Q87134918): de
+Kaio Cesar Chaboli Alevi (Q21391092): Cesar
+Kaio Cesar Chaboli Alevi (Q21391092): Chaboli
+Cathy C. Sarli (Q42549124): C.
+Kristi L. Holmes (Q42549119): L.
+Ellen K Dubinsky (Q57258240): K
+Ellen K Dubinsky (Q57910897): K
+Ramesh Kumar Pandey (Q61037551): Kumar
+Kamal Fadlalla El Jack Fadlalla (Q96169757): Fadlalla
+Kamal Fadlalla El Jack Fadlalla (Q96169757): El
+Kamal Fadlalla El Jack Fadlalla (Q96169757): Jack
+Tania Rita Moreno de Oliveira Fernandes (Q86015005): Rita
+Tania Rita Moreno de Oliveira Fernandes (Q86015005): Moreno
+Tania Rita Moreno de Oliveira Fernandes (Q86015005): de
+Tania Rita Moreno de Oliveira Fernandes (Q86015005): Oliveira
+Petronio Augusto de Souza Melo (Q57562957): Augusto
+Petronio Augusto de Souza Melo (Q57562957): de
+Petronio Augusto de Souza Melo (Q57562957): Souza
+
+UNADDED NAMES:
+Unadded family name in Akihiro Ito (Q77666693): Ito
+Unadded given name in Noppadol Larbcharoensub (Q47460877): Noppadol
+Unadded family name in Noppadol Larbcharoensub (Q47460877): Larbcharoensub
+Unadded family name in Maria Tercília Vilela de Azeredo-Oliveira (Q87134918): Azeredo-Oliveira
+Unadded given name in Kaio Cesar Chaboli Alevi (Q21391092): Kaio
+Unadded given name in Kosmidis Ch (Q81285429): Kosmidis
+Unadded family name in Kosmidis Ch (Q81285429): Ch
+Unadded family name in Georgia Trakada (Q47140494): Trakada
+Unadded family name in Kamal Fadlalla El Jack Fadlalla (Q96169757): Fadlalla
+Unadded family name in Jacques Izopet (Q28595173): Izopet
+Unadded given name in Ying-Yi Chen (Q87070914): Ying-Yi
+Unadded family name in Ying-Yi Chen (Q87070914): Chen
+
+ADDED NAMES:
+Tae Ki Yang (Q91262535): Tae
+Tae Ki Yang (Q91262535): Yang
+Hideya Yamazaki (Q61135764): Yamazaki
+Khadija Amine (Q63346825): Khadija
+Khadija Amine (Q63346825): Amine
+Francesco Gervasi (Q57569630): Gervasi
+Thomas Arthur Nicholls Pollak (Q86906967): Pollak
+Kaio Cesar Chaboli Alevi (Q21391092): Alevi
+Ellen K Dubinsky (Q57258240): Dubinsky
+Ramesh Kumar Pandey (Q61037551): Ramesh
+Ramesh Kumar Pandey (Q61037551): Pandey
+Sumit Dahal (Q60506286): Sumit
+Kamal Fadlalla El Jack Fadlalla (Q96169757): Kamal
+Bikash Bhattarai (Q88526760): Bikash
+Bikash Bhattarai (Q88526760): Bhattarai
+Tania Rita Moreno de Oliveira Fernandes (Q86015005): Fernandes
