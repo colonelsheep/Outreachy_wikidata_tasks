@@ -1,0 +1,195 @@
+
+[roberto@pangolin core]$ python pwb.py task_3.py
+The South Pole Telescope
+2) Author Q53986456: Peter A. R. Ade
+BibTeX author name: Peter A.~R. Ade
+1) Author Q6255926: John Ruhl
+BibTeX author name: John Ruhl
+3) Author Q1245714: John Carlstrom
+BibTeX author name: John E. Carlstrom
+4) Author Name String: Hsiao-Mei Cho
+BibTeX author name: Hsiao-Mei Cho
+Sleeping for 7.7 seconds, 2022-04-05 18:32:50
+Added P1932: Hsiao-Mei Cho
+Sleeping for 8.0 seconds, 2022-04-05 18:33:09
+Added P9688: Cho
+5) Author Name String: Thomas Crawford
+BibTeX author name: Thomas Crawford
+Sleeping for 9.5 seconds, 2022-04-05 18:33:17
+Added P1932: Thomas Crawford
+6) Author Name String: Matt Dobbs
+BibTeX author name: Matt Dobbs
+Sleeping for 9.6 seconds, 2022-04-05 18:33:27
+Added P1932: Matt Dobbs
+Sleeping for 9.5 seconds, 2022-04-05 18:33:37
+Added P9687: Matt
+Sleeping for 9.5 seconds, 2022-04-05 18:33:47
+Added P9688: Dobbs
+7) Author Name String: Chris H. Greer
+BibTeX author name: Chris H. Greer
+Sleeping for 9.5 seconds, 2022-04-05 18:33:57
+Added P1932: Chris H. Greer
+Sleeping for 9.4 seconds, 2022-04-05 18:34:07
+Added P9687: Chris H.
+Sleeping for 9.5 seconds, 2022-04-05 18:34:17
+Added P9688: Greer
+8) Author Name String: Nils w. Halverson
+BibTeX author name: Nils w. Halverson
+Sleeping for 9.5 seconds, 2022-04-05 18:34:27
+Added P1932: Nils w. Halverson
+Sleeping for 9.5 seconds, 2022-04-05 18:34:37
+Added P9687: Nils w.
+Sleeping for 9.5 seconds, 2022-04-05 18:34:47
+Added P9688: Halverson
+9) Author Name String: William L. Holzapfel
+BibTeX author name: William L. Holzapfel
+Sleeping for 9.4 seconds, 2022-04-05 18:34:57
+Added P1932: William L. Holzapfel
+Sleeping for 9.3 seconds, 2022-04-05 18:35:08
+Added P9687: William L.
+Sleeping for 9.6 seconds, 2022-04-05 18:35:17
+Added P9688: Holzapfel
+10) Author Name String: Trevor M. Lanting
+BibTeX author name: Trevor M. Lanting
+Sleeping for 9.5 seconds, 2022-04-05 18:35:27
+Added P1932: Trevor M. Lanting
+Sleeping for 9.5 seconds, 2022-04-05 18:35:37
+Added P9687: Trevor M.
+Sleeping for 9.5 seconds, 2022-04-05 18:35:47
+Added P9688: Lanting
+11) Author Name String: Adrian T. Lee
+BibTeX author name: Adrian T. Lee
+Sleeping for 9.4 seconds, 2022-04-05 18:35:58
+Added P1932: Adrian T. Lee
+Sleeping for 9.5 seconds, 2022-04-05 18:36:08
+Added P9687: Adrian T.
+Sleeping for 9.5 seconds, 2022-04-05 18:36:17
+Added P9688: Lee
+12) Author Name String: Erik M. Leitch
+BibTeX author name: Erik M. Leitch
+Sleeping for 9.5 seconds, 2022-04-05 18:36:27
+Added P1932: Erik M. Leitch
+Sleeping for 9.5 seconds, 2022-04-05 18:36:38
+Added P9687: Erik M.
+Sleeping for 8.4 seconds, 2022-04-05 18:36:49
+Added P9688: Leitch
+13) Author Name String: Jon Leong
+BibTeX author name: Jon Leong
+Sleeping for 9.5 seconds, 2022-04-05 18:36:57
+Added P1932: Jon Leong
+Sleeping for 9.5 seconds, 2022-04-05 18:37:08
+Added P9687: Jon
+Sleeping for 9.2 seconds, 2022-04-05 18:37:18
+Added P9688: Leong
+14) Author Name String: Wenyang Lu
+BibTeX author name: Wenyang Lu
+Sleeping for 9.5 seconds, 2022-04-05 18:37:28
+Added P1932: Wenyang Lu
+Sleeping for 9.4 seconds, 2022-04-05 18:37:38
+Added P9687: Wenyang
+Sleeping for 9.5 seconds, 2022-04-05 18:37:48
+Added P9688: Lu
+15) Author Name String: Martin Lueker
+BibTeX author name: Martin Lueker
+Sleeping for 9.5 seconds, 2022-04-05 18:37:58
+Added P1932: Martin Lueker
+Sleeping for 9.3 seconds, 2022-04-05 18:38:08
+Added P9687: Martin
+Sleeping for 9.5 seconds, 2022-04-05 18:38:18
+Added P9688: Lueker
+16) Author Name String: Jared Mehl
+BibTeX author name: Jared Mehl
+Sleeping for 9.5 seconds, 2022-04-05 18:38:28
+Added P1932: Jared Mehl
+Sleeping for 9.5 seconds, 2022-04-05 18:38:38
+Added P9687: Jared
+Sleeping for 9.4 seconds, 2022-04-05 18:38:48
+Added P9688: Mehl
+17) Author Name String: Stephan S. Meyer
+BibTeX author name: Stephan S. Meyer
+Sleeping for 9.2 seconds, 2022-04-05 18:38:58
+Added P1932: Stephan S. Meyer
+Sleeping for 9.4 seconds, 2022-04-05 18:39:08
+Added P9687: Stephan S.
+Sleeping for 9.2 seconds, 2022-04-05 18:39:18
+Added P9688: Meyer
+18) Author Name String: Joe J. Mohr
+BibTeX author name: Joe J. Mohr
+Sleeping for 9.4 seconds, 2022-04-05 18:39:28
+Added P1932: Joe J. Mohr
+Sleeping for 9.4 seconds, 2022-04-05 18:39:38
+Added P9687: Joe J.
+Sleeping for 9.5 seconds, 2022-04-05 18:39:48
+Added P9688: Mohr
+19) Author Name String: Steve Padin
+BibTeX author name: Steve Padin
+Sleeping for 9.5 seconds, 2022-04-05 18:39:58
+Added P1932: Steve Padin
+Sleeping for 9.5 seconds, 2022-04-05 18:40:08
+Added P9687: Steve
+Sleeping for 9.5 seconds, 2022-04-05 18:40:18
+Added P9688: Padin
+20) Author Name String: T. Plagge
+BibTeX author name: T. Plagge
+Sleeping for 9.4 seconds, 2022-04-05 18:40:28
+Added P1932: T. Plagge
+Sleeping for 9.5 seconds, 2022-04-05 18:40:38
+Added P9687: T.
+Sleeping for 9.4 seconds, 2022-04-05 18:40:48
+Added P9688: Plagge
+21) Author Name String: Clem Pryke
+BibTeX author name: Clem Pryke
+Sleeping for 9.5 seconds, 2022-04-05 18:40:58
+Added P1932: Clem Pryke
+Sleeping for 9.5 seconds, 2022-04-05 18:41:08
+Added P9687: Clem
+Sleeping for 9.6 seconds, 2022-04-05 18:41:18
+Added P9688: Pryke
+22) Author Name String: Marcus C. Runyan
+BibTeX author name: Marcus C. Runyan
+Sleeping for 9.5 seconds, 2022-04-05 18:41:28
+Added P1932: Marcus C. Runyan
+Sleeping for 9.4 seconds, 2022-04-05 18:41:38
+Added P9687: Marcus C.
+Sleeping for 9.5 seconds, 2022-04-05 18:41:48
+Added P9688: Runyan
+23) Author Name String: Dan Schwan
+BibTeX author name: Dan Schwan
+Sleeping for 9.5 seconds, 2022-04-05 18:41:58
+Added P1932: Dan Schwan
+Sleeping for 9.4 seconds, 2022-04-05 18:42:08
+Added P9687: Dan
+Sleeping for 9.5 seconds, 2022-04-05 18:42:18
+Added P9688: Schwan
+24) Author Name String: M. K. Sharp
+BibTeX author name: M.~K. Sharp
+Sleeping for 9.5 seconds, 2022-04-05 18:42:28
+Added P1932: M.~K. Sharp
+Sleeping for 9.5 seconds, 2022-04-05 18:42:38
+Added P9687: M.~K.
+Sleeping for 9.4 seconds, 2022-04-05 18:42:48
+Added P9688: Sharp
+25) Author Name String: Helmuth Spieler
+BibTeX author name: Helmuth Spieler
+Sleeping for 9.5 seconds, 2022-04-05 18:42:58
+Added P1932: Helmuth Spieler
+Sleeping for 9.0 seconds, 2022-04-05 18:43:08
+Added P9687: Helmuth
+Sleeping for 9.6 seconds, 2022-04-05 18:43:18
+Added P9688: Spieler
+26) Author Name String: Zak Staniszewski
+BibTeX author name: Zak Staniszewski
+Sleeping for 9.4 seconds, 2022-04-05 18:43:28
+Added P1932: Zak Staniszewski
+Sleeping for 9.4 seconds, 2022-04-05 18:43:38
+Added P9687: Zak
+Sleeping for 9.5 seconds, 2022-04-05 18:43:48
+Added P9688: Staniszewski
+27) Author Name String: Antony A. Stark
+BibTeX author name: Antony A. Stark
+Sleeping for 9.5 seconds, 2022-04-05 18:43:58
+Added P1932: Antony A. Stark
+Sleeping for 9.4 seconds, 2022-04-05 18:44:08
+Added P9687: Antony A.
+Sleeping for 9.5 seconds, 2022-04-05 18:44:18
+Added P9688: Stark
