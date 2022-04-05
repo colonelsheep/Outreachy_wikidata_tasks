@@ -42,3 +42,8 @@ I am very proud of this script, and can see it working well in my contributions 
 2. Double-barrelled surnames are almost never found because they almost never exist! These would be much easier to make than entirely new names, and could be detected via a RegEx. From here, the two parts of the family name could be searched, and if found, compounded to make a page for the double barrelled surname.
 3. Where a name comes from is one of the hardest parts to automate... maybe by adding large databases of common names this could be improved? Using ML to detect where names come from? I'm not sure.
 4. Maybe generalise this to just search for authors instead of scientific articles? Might make the program more efficient.
+
+#task_three
+This folder contains my work for Task 3.
+
+See example output at task_three_output.txt
