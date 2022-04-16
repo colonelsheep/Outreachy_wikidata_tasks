@@ -64,8 +64,6 @@ def get_bibtex(rid_url):
         with urllib.request.urlopen(req) as response:
             #utf-8 conversion necessary to properly read accented and other special chars
             html = response.read().decode('utf-8')
-    except urllib.error.HTTPError as e:
-        print(e.hdrs)
 
     return str(html)
 
