@@ -47,3 +47,16 @@ I am very proud of this script, and can see it working well in my contributions 
 This folder contains my work for Task 3.
 
 See example output at task_three_output.txt
+
+#bonus_tasks
+This folder contains work done for tasks that go beyond the 3 tasks.
+##auto_add_researchGate_names.py
+This program gets a list of articles that contain both authors or author name strings and a ResearchGate Publication ID. It then gets the URL for the BibTeX file download API, which returns a BiBTeX text file. From there, it automatically adds author given names, author last names, and author stated-as names to authors if the information is not already on their page (it only adds stated-as names to authors, as discussed in the feedback of my implementation for Task 3.
+See proof of its success on my contributions page on WikiData!: https://www.wikidata.org/wiki/Special:Contributions/PangolinMexico 
+
+The program works very well, but I've recognised some potential issues that I aim to fix in the upcoming weeks.
+- Sometimes, the original citation that was used to add authors has an additional (or fewer) authors than the ResearchGate citation, which leads to incorrect author information being added (or an error being called!). This is concerning for a number of reasons, mainly because it means citations aren't consistent across large academic journal websites! I'm curious if there's a *more* reliable citation site, and which one it is if it exists. I've been dealing with this manually so far, but plan to implement automatic checks for this in the future.
+- While it hasn't happened yet, I know that calling on an API consecutively can lead to a 429 error if too many requests are called --- I'm worried this will lead to this program being unreliable for large-scale name additions if this is the case.
+
+See example output at auto_add_researchGate_names.txt
+

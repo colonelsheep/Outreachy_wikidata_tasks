@@ -1,0 +1,149 @@
+[roberto@pangolin core]$ python pwb.py auto_add_researchGate_names.py
+How many articles to search through? 6
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q24813858 (How women were affected by the tsunami: a perspective from Oxfam)
+1) Author Name String: Rhona MacDonald
+BibTeX author name: Rhona MacDonald
+Sleeping for 7.8 seconds, 2022-04-16 12:10:25
+Added P9687: Rhona
+Sleeping for 9.5 seconds, 2022-04-16 12:10:33
+Added P9688: MacDonald
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q27347972 (Limit on lorentz and CPT violation of the neutron using a two-species noble-Gas maser)
+2) Author Q43156357: Richard Stoner
+BibTeX author name: Richard Stoner
+Sleeping for 7.8 seconds, 2022-04-16 12:10:45
+Added P1932: Richard Stoner
+Sleeping for 9.2 seconds, 2022-04-16 12:10:53
+Added P9687: Richard
+Sleeping for 9.0 seconds, 2022-04-16 12:11:03
+Added P9688: Stoner
+5) Author Q73257908: Charles D. Lane
+BibTeX author name: Charles Lane
+Sleeping for 8.8 seconds, 2022-04-16 12:11:14
+Added P1932: Charles Lane
+Sleeping for 9.4 seconds, 2022-04-16 12:11:23
+Added P9687: Charles
+Sleeping for 9.4 seconds, 2022-04-16 12:11:33
+Added P9688: Lane
+1) Author Name String: Bear D
+BibTeX author name: D. Bear
+Sleeping for 9.0 seconds, 2022-04-16 12:11:43
+Added P9687: D.
+Sleeping for 9.4 seconds, 2022-04-16 12:11:53
+Added P9688: Bear
+3) Author Name String: Walsworth RL
+BibTeX author name: R. Walsworth
+Sleeping for 9.3 seconds, 2022-04-16 12:12:03
+Added P9687: R.
+Sleeping for 8.0 seconds, 2022-04-16 12:12:15
+Added P9688: Walsworth
+4) Author Name String: Kostelecky VA
+BibTeX author name: V. Kostelecký
+Sleeping for 9.0 seconds, 2022-04-16 12:12:24
+Added P9687: V.
+Sleeping for 9.4 seconds, 2022-04-16 12:12:33
+Added P9688: Kostelecký
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q24792460 (Correction: The effects of aging and activity on muscle blood flow)
+2) Author Q55030585: Allison E. DeVan
+BibTeX author name: Allison DeVan
+P1932 already in author info!
+P9687 already in author info!
+P9688 already in author info!
+1) Author Name String: Jennifer L Olive
+BibTeX author name: Jennifer Olive
+P9687 already in author info!
+P9688 already in author info!
+3) Author Name String: Kevin K McCully
+BibTeX author name: Kevin Mccully
+P9687 already in author info!
+P9688 already in author info!
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q27347802 (Nuclear reaction rates in a plasma)
+1) Author Name String: Lowell S. Brown
+BibTeX author name: Lowell Brown
+Sleeping for 7.5 seconds, 2022-04-16 12:12:45
+Added P9687: Lowell
+Sleeping for 9.3 seconds, 2022-04-16 12:12:53
+Added P9688: Brown
+2) Author Name String: R. F. Sawyer
+BibTeX author name: R. Sawyer
+Sleeping for 9.1 seconds, 2022-04-16 12:13:03
+Added P9687: R.
+Sleeping for 9.3 seconds, 2022-04-16 12:13:13
+Added P9688: Sawyer
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q27336050 (Bmp and nodal independently regulate lefty1 expression to maintain unilateral nodal activity during left-right axis specification in zebrafish)
+2) Author Q59562136: Emily S Noël
+BibTeX author name: Emily Noel
+P1932 already in author info!
+Sleeping for 7.3 seconds, 2022-04-16 12:13:25
+Added P9687: Emily
+Sleeping for 9.1 seconds, 2022-04-16 12:13:33
+Added P9688: Noel
+1) Author Q57515386: Kelly A Smith
+BibTeX author name: Kelly Smith
+P1932 already in author info!
+Sleeping for 9.0 seconds, 2022-04-16 12:13:43
+Added P9687: Kelly
+Sleeping for 9.3 seconds, 2022-04-16 12:13:53
+Added P9688: Smith
+6) Author Q39512692: Jeroen Bakkers
+BibTeX author name: Jeroen Bakkers
+P1932 already in author info!
+Sleeping for 8.8 seconds, 2022-04-16 12:14:04
+Added P9687: Jeroen
+Sleeping for 9.3 seconds, 2022-04-16 12:14:13
+Added P9688: Bakkers
+3) Author Name String: Ingrid Thurlings
+BibTeX author name: Ingrid Thurlings
+Sleeping for 9.3 seconds, 2022-04-16 12:14:23
+Added P9687: Ingrid
+Sleeping for 9.4 seconds, 2022-04-16 12:14:33
+Added P9688: Thurlings
+4) Author Name String: Holger Rehmann
+BibTeX author name: Holger Rehmann
+Sleeping for 9.4 seconds, 2022-04-16 12:14:43
+Added P9687: Holger
+Sleeping for 9.3 seconds, 2022-04-16 12:14:53
+Added P9688: Rehmann
+5) Author Name String: Sonja Chocron
+BibTeX author name: Sonja Chocron
+Sleeping for 9.2 seconds, 2022-04-16 12:15:03
+Added P9687: Sonja
+Sleeping for 9.2 seconds, 2022-04-16 12:15:13
+Added P9688: Chocron
+
+------------------------------------------------------------------------------------------------------------
+
+Adding author given names and author last names to: Q24670955 (Characteristics and Components of the TADS CBT Approach)
+2) Author Q81594782: Norah C Feeny
+BibTeX author name: Norah Feeny
+P1932 already in author info!
+Sleeping for 6.5 seconds, 2022-04-16 12:15:26
+Added P9687: Norah
+Sleeping for 9.3 seconds, 2022-04-16 12:15:33
+Added P9688: Feeny
+1) Author Name String: Paul Rohde
+BibTeX author name: Paul Rohde
+Sleeping for 9.3 seconds, 2022-04-16 12:15:43
+Added P9687: Paul
+Sleeping for 9.4 seconds, 2022-04-16 12:15:53
+Added P9688: Rohde
+3) Author Name String: Michele Robins
+BibTeX author name: Michele Robins
+Sleeping for 9.2 seconds, 2022-04-16 12:16:03
+Added P9687: Michele
+Sleeping for 9.2 seconds, 2022-04-16 12:16:13
+Added P9688: Robins
