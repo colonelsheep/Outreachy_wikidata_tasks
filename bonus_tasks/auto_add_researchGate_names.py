@@ -1,8 +1,3 @@
-"""
-Automatically gets ResearchGate IDs from articles and downloads the BibTeX information from this url.
-Adds author given names (P9687), author last names (P6988) to authors and author name strings.
-Adds stated-as names (P1932) to authors.
-"""
 import pywikibot
 from pywikibot.data import api
 from pywikibot import pagegenerators
@@ -109,8 +104,11 @@ def get_author_info(page, pid):
             except:
                 print(series_ordinal + ") Author Name String: " + claim_value)
             #gets bibTeX given and family name from series ordinal position, equivalent to author placement in bibTeX list
-            given_name = author_given_name[int(series_ordinal) - 1]
-            family_name = author_family_name[int(series_ordinal) - 1]
+            try:
+                given_name = author_given_name[int(series_ordinal) - 1]
+                family_name = author_family_name[int(series_ordinal) - 1]
+            except:
+                print("This array size isn't correct! Check over any edits to make sure they're accurate.")
             print("BibTeX author name: " + given_name + " " + family_name)
             #adds stated as name if author and not in author page
             if pid == 'P50':
