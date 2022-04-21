@@ -48,9 +48,9 @@ This folder contains my work for Task 3.
 
 See example output at task_three_output.txt
 
-#bonus_tasks
+# bonus_tasks
 This folder contains work done for tasks that go beyond the 3 tasks.
-##auto_add_researchGate_names.py
+## auto_add_researchGate_names.py
 This program gets a list of articles that contain both authors or author name strings and a ResearchGate Publication ID. It then gets the URL for the BibTeX file download API, which returns a BiBTeX text file. From there, it automatically adds author given names, author last names, and author stated-as names to authors if the information is not already on their page (it only adds stated-as names to authors, as discussed in the feedback of my implementation for Task 3.
 See proof of its success on my contributions page on WikiData!: https://www.wikidata.org/wiki/Special:Contributions/PangolinMexico 
 
