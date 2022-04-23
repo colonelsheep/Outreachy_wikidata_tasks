@@ -1,0 +1,16 @@
+SELECT DISTINCT ?item WHERE {
+  ?item wdt:P31 wd:Q13442814; #get scholarly article that
+          p:P50* ?author; #has an author
+          p:P2093* ?authornamestring; #or an author name string
+          p:P5875 ?researchgateid. #and a researchgate ID
+          ?author pq:P1545+ ?seriesauthor. #author has series ordinal
+          ?authornamestring pq:P1545+ ?seriesauthorstring; #as does author name string
+  MINUS { #exclude articles that...
+    ?author pq:P1932+ ?statedas. #have stated as in authors and
+    ?author pq:P9687+ ?givennameauthor. #given names in authors and
+    ?author pq:P9688+ ?familynameauthor. #family names in authors and
+    ?authornamestring pq:P9687+ ?givennameauthorstring. #given names in author name strings
+    ?authornamestring pq:P9688+ ?familynameauthorstring. #family names in author name strings
+    }
+}
+LIMIT 

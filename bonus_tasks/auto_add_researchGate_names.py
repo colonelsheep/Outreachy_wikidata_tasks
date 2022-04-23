@@ -7,29 +7,17 @@ import re
 #connects to wikidata
 wd_connect = pywikibot.Site('wikidata', 'wikidata')
 wd = wd_connect.data_repository()
-search_count = input("How many articles to search through? ")
+count = input("How many articles to search through? ")
 author_family_name = None
 author_given_name = None
 
 #creates a SPARQL query to get a number of articles that include a ResearchGate citation and any authors or author name strings
 def get_researchgate_wikidata():
-    sparql = """SELECT DISTINCT ?item ?itemLabel WHERE {
-    SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE]\". }
-    {
-        SELECT DISTINCT ?item WHERE {
-        ?item p:P5875 ?statement0.
-        ?statement0 (ps:P5875) _:anyValueP5875.
-        {
-            ?item p:P2093 ?statement1.
-            ?statement1 (ps:P2093) _:anyValueP2093.
-         }
-        UNION
-        {
-            ?item p:P50 ?statement2.
-            ?statement2 (ps:P50/(wdt:P279*)) _:anyValueP50.
-        }
-        }
-        LIMIT""" + search_count + " }}"  
+    with open('research_query.rq', 'r') as sparql_file:
+        sparql = sparql_file.read()
+        #removes new line and adds user search count
+        sparql = sparql[0:len(sparql) - 1] + count
+        print(sparql)
     generator = pagegenerators.WikidataSPARQLPageGenerator(sparql, site=wd)
     for page in generator:
         get_researchgate_url(page)
@@ -116,7 +104,7 @@ def get_author_info(page, pid):
             #adds author given name and author family name if not in author page
             add_bibtex_qualifiers(claim, given_name, family_name)
 
-#adds 'stated as', 'author given names', and 'author family names' to author
+#adds 'author given names', and 'author family names' to author
 def add_bibtex_qualifiers(claim, given_name, family_name):
             add_qualifier(claim, given_name, 'P9687')
             add_qualifier(claim, family_name, 'P9688')
